@@ -1,4 +1,4 @@
-# getting-started-with-flutter-datagrid
+# Getting started with Flutter DataGrid
 This repository contains the example about how to get started with the Flutter DataGrid.
 
 ## Syncfusion® controls:
